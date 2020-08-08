@@ -12,7 +12,7 @@
   "author": "Saxo_Broko",
   "license": "MIT",
   "dependencies": {
-    "electron": "^3.0.6"
+    "electron": "^9.1.1"
   },
   "devDependencies": {
     "electron-packager": "^12.2.0"
